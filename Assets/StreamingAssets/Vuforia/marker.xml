@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="mark_nn" size="100.000000 112.500000" />
+    <ImageTarget name="mark_wo" size="100.000000 112.500000" />
+    <ImageTarget name="mark_wa" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ro" size="100.000000 112.500000" />
+    <ImageTarget name="mark_re" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ru" size="10.000000 11.250000" />
+    <ImageTarget name="mark_ri" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ra" size="100.000000 112.500000" />
+    <ImageTarget name="mark_yo" size="100.000000 112.500000" />
+    <ImageTarget name="mark_yu" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ya" size="100.000000 112.500000" />
+    <ImageTarget name="mark_mo" size="100.000000 112.500000" />
+    <ImageTarget name="mark_me" size="100.000000 112.500000" />
+    <ImageTarget name="mark_mu" size="100.000000 112.500000" />
+    <ImageTarget name="mark_mi" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ma" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ho" size="100.000000 112.500000" />
+    <ImageTarget name="mark_he" size="100.000000 112.500000" />
+    <ImageTarget name="mark_hu" size="100.000000 112.500000" />
+    <ImageTarget name="mark_hi" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ha" size="100.000000 112.500000" />
+    <ImageTarget name="mark_no" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ne" size="100.000000 112.500000" />
+    <ImageTarget name="mark_nu" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ni" size="100.000000 112.500000" />
+    <ImageTarget name="mark_na" size="100.000000 112.500000" />
+    <ImageTarget name="mark_to" size="100.000000 112.500000" />
+    <ImageTarget name="mark_te" size="100.000000 112.500000" />
+    <ImageTarget name="mark_tu" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ti" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ta" size="100.000000 112.500000" />
+    <ImageTarget name="mark_so" size="100.000000 112.500000" />
+    <ImageTarget name="mark_se" size="100.000000 112.500000" />
+    <ImageTarget name="mark_su" size="100.000000 112.500000" />
+    <ImageTarget name="mark_si" size="100.000000 112.500000" />
+    <ImageTarget name="mark_sa" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ko" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ke" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ku" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ki" size="100.000000 112.500000" />
+    <ImageTarget name="mark_ka" size="100.000000 112.500000" />
+    <ImageTarget name="mark_o" size="100.000000 112.500000" />
+    <ImageTarget name="mark_e" size="100.000000 112.500000" />
+    <ImageTarget name="mark_u" size="100.000000 112.500000" />
+    <ImageTarget name="mark_i" size="100.000000 112.500000" />
+    <ImageTarget name="mark_a" size="100.000000 112.500000" />
+  </Tracking>
+</QCARConfig>

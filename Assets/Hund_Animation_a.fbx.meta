@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 0d2216dd52d2949529c2e50cffdff3c7
+timeCreated: 1509943596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: //RootNode
+    100004: rindexA
+    100006: rindexB
+    100008: rindexC
+    100010: rindexC_end
+    100012: rlittleA
+    100014: rlittleB
+    100016: rlittleC
+    100018: rlittleC_end
+    100020: rmiddleA
+    100022: rmiddleB
+    100024: rmiddleC
+    100026: rmiddleC_end
+    100028: rpalm
+    100030: rringA
+    100032: rringB
+    100034: rringC
+    100036: rringC_end
+    100038: rthumbA
+    100040: rthumbB
+    100042: rthumbC
+    100044: rthumbC_end
+    100046: wrist
+    100048: Young_White_Male__Stylish_Casual_Clothes_hand_l_pivot
+    400000: Armature
+    400002: //RootNode
+    400004: rindexA
+    400006: rindexB
+    400008: rindexC
+    400010: rindexC_end
+    400012: rlittleA
+    400014: rlittleB
+    400016: rlittleC
+    400018: rlittleC_end
+    400020: rmiddleA
+    400022: rmiddleB
+    400024: rmiddleC
+    400026: rmiddleC_end
+    400028: rpalm
+    400030: rringA
+    400032: rringB
+    400034: rringC
+    400036: rringC_end
+    400038: rthumbA
+    400040: rthumbB
+    400042: rthumbC
+    400044: rthumbC_end
+    400046: wrist
+    400048: Young_White_Male__Stylish_Casual_Clothes_hand_l_pivot
+    4300000: Young_White_Male__Stylish_Casual_Clothes_hand_l_pivot
+    7400000: Armature|wrist
+    9500000: //RootNode
+    13700000: Young_White_Male__Stylish_Casual_Clothes_hand_l_pivot
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Young_White_Male__Stylish_Casua
+    second: {fileID: 2100000, guid: 8d6865e61ce264081bd3460110645cce, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
