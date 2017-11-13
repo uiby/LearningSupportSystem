@@ -304,7 +304,7 @@ GameObject:
   - component: {fileID: 974662497}
   - component: {fileID: 974662496}
   m_Layer: 0
-  m_Name: ImageTarget
+  m_Name: FingerA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -605,7 +605,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 0d2216dd52d2949529c2e50cffdff3c7, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0d2216dd52d2949529c2e50cffdff3c7, type: 3}
