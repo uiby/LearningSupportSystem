@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="o" size="256.000000 288.000000" />
-    <ImageTarget name="e" size="256.000000 288.000000" />
-    <ImageTarget name="u" size="256.000000 288.000000" />
-    <ImageTarget name="i" size="256.000000 288.000000" />
-    <ImageTarget name="a" size="256.000000 288.000000" />
+    <ImageTarget name="25_no" size="256.000000 288.000000" />
+    <ImageTarget name="24_ne" size="256.000000 288.000000" />
+    <ImageTarget name="23_nu" size="256.000000 288.000000" />
+    <ImageTarget name="22_ni" size="256.000000 288.000000" />
+    <ImageTarget name="21_na" size="256.000000 288.000000" />
+    <ImageTarget name="20_to" size="256.000000 288.000000" />
+    <ImageTarget name="19_te" size="256.000000 288.000000" />
+    <ImageTarget name="18_tu" size="256.000000 288.000000" />
+    <ImageTarget name="17_ti" size="256.000000 288.000000" />
+    <ImageTarget name="16_ta" size="256.000000 288.000000" />
+    <ImageTarget name="15_so" size="256.000000 288.000000" />
+    <ImageTarget name="14_se" size="256.000000 288.000000" />
+    <ImageTarget name="13_su" size="256.000000 288.000000" />
+    <ImageTarget name="12_si" size="256.000000 288.000000" />
+    <ImageTarget name="11_sa" size="256.000000 288.000000" />
+    <ImageTarget name="10_ko" size="256.000000 288.000000" />
+    <ImageTarget name="9_ke" size="256.000000 288.000000" />
+    <ImageTarget name="8_ku" size="256.000000 288.000000" />
+    <ImageTarget name="7_ki" size="256.000000 288.000000" />
+    <ImageTarget name="6_ka" size="256.000000 288.000000" />
+    <ImageTarget name="2_i" size="256.000000 288.000000" />
+    <ImageTarget name="3_u" size="256.000000 288.000000" />
+    <ImageTarget name="5_o" size="256.000000 288.000000" />
+    <ImageTarget name="1_a" size="256.000000 288.000000" />
+    <ImageTarget name="4_e" size="256.000000 288.000000" />
   </Tracking>
 </QCARConfig>
