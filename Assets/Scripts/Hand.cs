@@ -9,11 +9,18 @@ public class Hand : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		animator = GetComponentsInChildren<Animator>(true)[0];
-		animator.Play (type.ToString ());
+		StartCoroutine (Init ());
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
+	}
+
+	IEnumerator Init() {
+		yield return null;
+		yield return null;
+		animator.Play (type.ToString (), 0, 0.9f);
+		animator.speed = 0;
 	}
 }
